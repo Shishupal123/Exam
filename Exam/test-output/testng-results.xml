@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T09:56:11 IST" name="Suite" finished-at="2022-05-20T09:58:16 IST" duration-ms="124749">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T09:56:11 IST" name="Test" finished-at="2022-05-20T09:58:16 IST" duration-ms="124749">
+      <class name="com.mindtree.Exam.Help">
+        <test-method signature="Test1()[pri:0, instance:com.mindtree.Exam.Help@1ba9117e]" started-at="2022-05-20T09:56:43 IST" name="Test1" finished-at="2022-05-20T09:56:54 IST" duration-ms="11195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.mindtree.Exam.Help -->
+      <class name="com.mindtree.Exam.TC003_SearchInValidData">
+        <test-method signature="Test6()[pri:0, instance:com.mindtree.Exam.TC003_SearchInValidData@44821a96]" started-at="2022-05-20T09:56:17 IST" name="Test6" finished-at="2022-05-20T09:56:22 IST" duration-ms="5262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+      </class> <!-- com.mindtree.Exam.TC003_SearchInValidData -->
+      <class name="com.mindtree.Exam.TC002_SearchValidData">
+        <test-method signature="Test5()[pri:0, instance:com.mindtree.Exam.TC002_SearchValidData@a3d8174]" started-at="2022-05-20T09:56:22 IST" name="Test5" finished-at="2022-05-20T09:56:43 IST" duration-ms="21251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+      </class> <!-- com.mindtree.Exam.TC002_SearchValidData -->
+      <class name="com.mindtree.Exam.LogIn">
+        <test-method signature="Test2()[pri:0, instance:com.mindtree.Exam.LogIn@732c2a62]" started-at="2022-05-20T09:56:54 IST" name="Test2" finished-at="2022-05-20T09:57:10 IST" duration-ms="15242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- com.mindtree.Exam.LogIn -->
+      <class name="com.mindtree.Exam.TC001_URL">
+        <test-method signature="Test4()[pri:0, instance:com.mindtree.Exam.TC001_URL@6b8ca3c8]" started-at="2022-05-20T09:56:11 IST" name="Test4" finished-at="2022-05-20T09:56:17 IST" duration-ms="5713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- com.mindtree.Exam.TC001_URL -->
+      <class name="com.mindtree.Exam.Order">
+        <test-method signature="Test3()[pri:0, instance:com.mindtree.Exam.Order@272ed83b]" started-at="2022-05-20T09:57:10 IST" name="Test3" finished-at="2022-05-20T09:58:16 IST" duration-ms="65973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.mindtree.Exam.Order -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
